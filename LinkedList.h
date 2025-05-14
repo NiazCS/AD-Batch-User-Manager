@@ -1,7 +1,4 @@
 // LinkedList.h
-// niaz hussain
-// ad batch user manager
-// cst 202 – data structures
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
