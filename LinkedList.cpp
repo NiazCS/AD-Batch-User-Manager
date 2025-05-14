@@ -1,7 +1,4 @@
 // LinkedList.cpp
-// niaz hussain
-// ad batch user manager
-// cst 202 – data structures
 
 #include "LinkedList.h"
 
