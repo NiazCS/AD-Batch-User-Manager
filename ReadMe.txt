@@ -1,6 +1,6 @@
 Active-Directory Batch User Manager
 
-program to simulate bulk active directory operations by reading a csv of username,action pairs (create, disable, delete) and logging each action with a timestamp.
+program to SIMULATE bulk active directory operations by reading a csv of username,action pairs (create, disable, delete) and logging each action with a timestamp.
 
 Test run:
 
